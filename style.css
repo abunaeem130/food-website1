@@ -34,6 +34,10 @@ section{
 #heading-style{
     text-align: center;
 }
+.item-margin{
+    margin-right: 400px;
+    margin-left: 400px;
+}
 .food-manu{
     width:100%;
 }
@@ -44,10 +48,16 @@ section{
     border-style: solid;
     border-radius: 40px;
     margin-right: 5px;
-    box-shadow: 
+    box-shadow: cornsilk;
 }
 .food-image img{
      width:200px;
      height: 200px;
      border-radius: 25px;
+}
+.footer-color{
+    color: brown;
+}
+.footer-align{
+    text-align: center;
 }
